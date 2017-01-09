@@ -1,5 +1,5 @@
 /*
- *  Copyright 2012 Kobi Krasnoff
+ *  Copyright 2012
  * 
  * This file is part of Call recorder For Android.
 
